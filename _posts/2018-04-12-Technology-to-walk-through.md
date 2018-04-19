@@ -6,16 +6,16 @@ title: A new technology to learn
 A new trends and technology to be focus on for self development.
 
 
-Fornend: 
-  RxJs + Redux + React
+1. Fornend: 
+-  RxJs + Redux + React
 
-Backend: 
-  Go
+2. Backend: 
+-   Go
 
-CD: 
-  Gradle
+3. CD: 
+  - Gradle
 
-Otehr: 
-  C++17 
-  Lucene and elasticSearch
-    use lucene for performing ful text scanning
+4. Otehr: 
+-  C++17 
+  -  Lucene and elasticSearch
+  -  use lucene for performing ful text scanning
