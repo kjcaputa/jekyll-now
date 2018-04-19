@@ -11,6 +11,8 @@ A new trends and technology to be focus on for self development.
 
 2. Backend: 
 -   Go
+-- Documentation https://golang.org/doc/
+-- How to Write Go Code https://golang.org/doc/code.html
 
 3. CD: 
   - Gradle
@@ -19,3 +21,6 @@ A new trends and technology to be focus on for self development.
 -  C++17 
   -  Lucene and elasticSearch
   -  use lucene for performing ful text scanning
+  
+5. Blog
+- https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
